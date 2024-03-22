@@ -1,0 +1,62 @@
+{
+  "name": "spotify",
+  "textClasses": {
+    "label": {
+      "color": "#FFFFFF"
+    },
+    "callout": {
+      "color": "#FFFFFF"
+    },
+    "title": {
+      "color": "#FFFFFF",
+      "fontSize": 16
+    },
+    "header": {
+      "color": "#FFFFFF"
+    }
+  },
+  "dataColors": [
+    "#1DB954",
+    "#212121",
+    "#121212",
+    "#535353",
+    "#B3B3B3",
+    "#B3B3B3",
+    "#FDFCF9",
+    "#FFFFFF"
+  ],
+  "foreground": "#000000",
+  "foregroundNeutralSecondary": "#FFFFFF",
+  "backgroundLight": "#FFFFFF",
+  "foregroundNeutralTertiary": "#FFFFFF",
+  "bad": "#14CC60",
+  "neutral": "#0B3108",
+  "minimum": "#0B3108",
+  "center": "#1AAB40",
+  "maximum": "#14CC60",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "transparency": 100
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 100
+          }
+        ]
+      }
+    }
+  }
+}
